@@ -21,4 +21,4 @@ Estamos sempre em busca de inovações e melhorias. Se você está interessado e
 
 ## Contato
 
-Para mais informações, entre em contato conosco através do seguinte endereço de e-mail: `support@infinitude-software.com`.
+Para mais informações, entre em contato conosco através do seguinte endereço de e-mail: `contato@infinitudesoftware.com.br`.
